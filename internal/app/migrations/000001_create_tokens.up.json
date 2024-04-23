@@ -1,0 +1,8 @@
+[
+    {
+        "create": "tokens",
+        "validator": {"$jsonSchema": {}},
+        "validationLevel": "strict",
+        "validationAction": "error"
+    }
+  ]
